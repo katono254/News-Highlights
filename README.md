@@ -13,4 +13,4 @@ This project was build using Python3.6. Flask and Deployed on Heroku
 For more details and help contact me: blackrocket.47@gmail.com
 Phone number: 0716613990
 
-Copyright (c) {2019} **Greg Katono**
+Copyright (c) 2019 **Greg Katono**
