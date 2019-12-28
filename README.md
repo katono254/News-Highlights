@@ -1,8 +1,8 @@
-# {News Highlight}
-#### {News Highlight app}, {28/12/2019}
-#### By **{Greg Katono}**
+# News Highlight
+#### News Highlight app, 28/12/2019
+#### By **Greg Katono**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This app allows users to store their credentials and other social media account details. For users to use the app they have to log in or creat an account on the app. When creating the account credentials the user is prompted to either give there own password or allow the app to generate for them. They can finally save the credentials and view them.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
