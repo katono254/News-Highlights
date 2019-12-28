@@ -3,13 +3,8 @@
 #### By **Greg Katono**
 ## Description
 This app allows users to store their credentials and other social media account details. For users to use the app they have to log in or creat an account on the app. When creating the account credentials the user is prompted to either give there own password or allow the app to generate for them. They can finally save the credentials and view them.
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## BDD
+{This app shows various news sources in the world. These sources are accessed from the news api and the secret api key. Once one clicks on the specific news source or desired news source, the link goes to a new path that shows the articles written by the news source and the date and time it was created or published. from there the user can skim through the many articles, and once they get an interesting news they can get to open the article which will navigate the user to the original page of the news source.}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
