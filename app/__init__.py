@@ -9,7 +9,7 @@ def create_app(config_name):
     #create the app configurations
     app.config.from_object(config_options[config_name])
 
-    # Initializing flask extensions
+    # Initializing flask extensions that was installed
     bootstrap.init_app(app)
 
 
