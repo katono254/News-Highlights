@@ -5,6 +5,7 @@ from ..models import Sources
 
 @main.route('/')
 def index():
+    
     '''
     
     view root page function that returns the index the page and its data 

@@ -4,10 +4,12 @@ from config import config_options
 bootstrap = Bootstrap()
 
 def create_app(config_name):
-    app = Flask(__name__)
+    app = Flask(__name__,instance_relative_config = True) #it allows us to go to the instane
 
     #create the app configurations
     app.config.from_object(config_options[config_name])
+
+    
 
     # Initializing flask extensions that was installed
     bootstrap.init_app(app)
